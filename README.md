@@ -13,3 +13,6 @@ Information related to Past Applications and list of customers that need to be p
 ● What kind of model (Continuous, Binary, Non-Binary, Time-Series) do we need to use to help make these decisions?
 
 Binary models like logistics regression, decision tree, forest model and boosted tree are needed for the analysis.
+
+### Tool Used - 
+● Alteryx 
